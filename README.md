@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tabiul Hasan Ifty</h1>
+<h1 align="center">Hi 👋, I'm Tabiul Hasan <span style="color:red;"> Ifty </span></h1>
 <h3 align="center">I am Software Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabiul-ifty&label=Profile%20views&color=0e75b6&style=flat" alt="tabiul-ifty" /> </p>
