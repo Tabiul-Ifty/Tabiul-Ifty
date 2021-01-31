@@ -1,5 +1,5 @@
 <h1 align="center">
- <img width="100%" height="60%" src="Mark.png">
+ <img width="100%" height="30%" src="Mark.png">
 </h1>
 <h1 align="center">Hi 👋😄, I'm Tabiul Hasan <span style="color:red;"> Ifty </span></h1>
 <h3 align="center">I am Software Developer.</h3>
